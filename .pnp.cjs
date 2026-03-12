@@ -3570,7 +3570,7 @@ const RAW_RUNTIME_STATE =
           ["nopt", "npm:9.0.0"],\
           ["proc-log", "npm:6.1.0"],\
           ["semver", "npm:7.7.4"],\
-          ["tar", "npm:7.5.9"],\
+          ["tar", "npm:7.5.11"],\
           ["tinyglobby", "npm:0.2.15"],\
           ["which", "npm:6.0.1"]\
         ],\
@@ -4595,10 +4595,10 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["tar", [\
-      ["npm:7.5.9", {\
-        "packageLocation": "../../.yarn/berry/cache/tar-npm-7.5.9-dd42dd386e-10c0.zip/node_modules/tar/",\
+      ["npm:7.5.11", {\
+        "packageLocation": "../../.yarn/berry/cache/tar-npm-7.5.11-c176cc1bb0-10c0.zip/node_modules/tar/",\
         "packageDependencies": [\
-          ["tar", "npm:7.5.9"],\
+          ["tar", "npm:7.5.11"],\
           ["@isaacs/fs-minipass", "npm:4.0.1"],\
           ["chownr", "npm:3.0.0"],\
           ["minipass", "npm:7.1.3"],\
